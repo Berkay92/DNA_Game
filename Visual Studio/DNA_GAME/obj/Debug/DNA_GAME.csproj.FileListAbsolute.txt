@@ -1,0 +1,5 @@
+C:\Users\lg\Desktop\DNA_yarışma\DNA_GAME\DNA_GAME\bin\Debug\DNA_GAME.exe
+C:\Users\lg\Desktop\DNA_yarışma\DNA_GAME\DNA_GAME\bin\Debug\DNA_GAME.pdb
+C:\Users\lg\Desktop\DNA_yarışma\DNA_GAME\DNA_GAME\obj\Debug\DNA_GAME.exe
+C:\Users\lg\Desktop\DNA_yarışma\DNA_GAME\DNA_GAME\obj\Debug\DNA_GAME.pdb
+C:\Users\lg\Desktop\DNA_yarışma\DNA_GAME\DNA_GAME\obj\Debug\DNA_GAME.csprojResolveAssemblyReference.cache
